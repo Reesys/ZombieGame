@@ -2,6 +2,7 @@ package zombie.model;
 
 public class ZombieModel
 {
+	// My variables for my zombie game and all my getters and setters.
 	private String player;
 	private char left;
 	private String dialog;
